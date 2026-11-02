@@ -1,5 +1,3 @@
-
-/* Select second example with -DLAB6_TASK2. */
 #ifndef LAB6_TASK2
 
 #include <stdbool.h>
